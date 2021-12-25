@@ -2,6 +2,6 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome to my blog, I live in Porto, Portugal and work at the Power BI CAT Team at Microsoft.
 
-blah blah blah
+I'm very passionate about Data & Power BI and this blog porpuse is to share some learnings on the amazing Microsoft Data Stack.
